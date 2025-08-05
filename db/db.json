@@ -90,29 +90,6 @@
       "status": "Em produção"
     },
     {
-      "id": "6ae9",
-      "name": "Jose Silva",
-      "bread": "Integral",
-      "meat": "Alcatra",
-      "optionals": [
-        "Cebola roxa",
-        "Salame"
-      ],
-      "status": "Em produção"
-    },
-    {
-      "id": "82c7",
-      "name": "Ana Luiza",
-      "bread": "Italiano Branco",
-      "meat": "Alcatra",
-      "optionals": [
-        "Tomate",
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado"
-    },
-    {
       "id": "185a",
       "name": "Maria Luiza",
       "bread": "3 Queijos",
@@ -124,17 +101,6 @@
         "Pepino"
       ],
       "status": "Finalizado"
-    },
-    {
-      "id": "4c8b",
-      "name": "Bernardo Melo",
-      "bread": "Parmesão e Orégano",
-      "meat": "Picanha",
-      "optionals": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Em produção"
     }
   ]
 }
