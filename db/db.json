@@ -1,0 +1,140 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em produção"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "8cf5",
+      "name": "Vinicius Alves",
+      "bread": "3 Queijos",
+      "meat": "Picanha",
+      "optionals": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Em produção"
+    },
+    {
+      "id": "6ae9",
+      "name": "Jose Silva",
+      "bread": "Integral",
+      "meat": "Alcatra",
+      "optionals": [
+        "Cebola roxa",
+        "Salame"
+      ],
+      "status": "Em produção"
+    },
+    {
+      "id": "82c7",
+      "name": "Ana Luiza",
+      "bread": "Italiano Branco",
+      "meat": "Alcatra",
+      "optionals": [
+        "Tomate",
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "185a",
+      "name": "Maria Luiza",
+      "bread": "3 Queijos",
+      "meat": "Alcatra",
+      "optionals": [
+        "Salame",
+        "Cheddar",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Finalizado"
+    },
+    {
+      "id": "4c8b",
+      "name": "Bernardo Melo",
+      "bread": "Parmesão e Orégano",
+      "meat": "Picanha",
+      "optionals": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Em produção"
+    }
+  ]
+}
